@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "District of Columbia",
+    "event_city": "Washington",
+    "event_date": "2/3/2025"
+  },
+  {
+    "id": 2,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "Florida",
+    "event_city": "Naples",
+    "event_date": "3/5/2025"
+  },
+  {
+    "id": 3,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "Ohio",
+    "event_city": "Youngstown",
+    "event_date": "4/7/2025"
+  },
+  {
+    "id": 4,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "California",
+    "event_city": "Anaheim",
+    "event_date": "5/9/2025"
+  },
+  {
+    "id": 5,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "New Jersey",
+    "event_city": "Newark",
+    "event_date": "6/11/2025"
+  },
+  {
+    "id": 6,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "North Carolina",
+    "event_city": "Charlotte",
+    "event_date": "7/13/2025"
+  },
+  {
+    "id": 7,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "Texas",
+    "event_city": "San Antonio",
+    "event_date": "8/15/2025"
+  },
+  {
+    "id": 8,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "Florida",
+    "event_city": "Orlando",
+    "event_date": "9/17/2025"
+  },
+  {
+    "id": 9,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "California",
+    "event_city": "Los Angeles",
+    "event_date": "10/19/2025"
+  },
+  {
+    "id": 10,
+    "pic_url": "/static/images/concert.jpg",
+    "event_country": "United States",
+    "event_state": "Florida",
+    "event_city": "Miami Beach",
+    "event_date": "11/21/2025"
+  }
+]
